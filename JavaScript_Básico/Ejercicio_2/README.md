@@ -1,4 +1,4 @@
-# Ejercicio N°1:
+# Ejercicio N°2:
 
 Crea un nuevo archivo JS que contenga una lista con los siguientes elementos:
 
